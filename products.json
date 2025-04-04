@@ -1,14 +1,39 @@
 [
     {
-        "id": 1,
-        "name": "T-Shirt",
-        "price": 20,
-        "image": "https://via.placeholder.com/150"
+      "id": 1,
+      "name": "Classic White T-Shirt",
+      "price": 25,
+      "image": "https://images.unsplash.com/photo-1585386959984-a415522b831d?auto=format&fit=crop&w=600&q=80"
     },
     {
-        "id": 2,
-        "name": "Shoes",
-        "price": 50,
-        "image": "https://via.placeholder.com/150"
+      "id": 2,
+      "name": "Black Denim Jacket",
+      "price": 60,
+      "image": "https://images.unsplash.com/photo-1602810319221-f7f4b4574be1?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Brown Leather Shoes",
+      "price": 90,
+      "image": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Casual Blue Shirt",
+      "price": 35,
+      "image": "https://images.unsplash.com/photo-1618354691373-04b1d2de6b56?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Stylish Sunglasses",
+      "price": 45,
+      "image": "https://images.unsplash.com/photo-1585386959984-ec23d94c35d3?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 6,
+      "name": "Elegant Handbag",
+      "price": 70,
+      "image": "https://images.unsplash.com/photo-1578731236928-88f95fdb471b?auto=format&fit=crop&w=600&q=80"
     }
-]
+  ]
+  
